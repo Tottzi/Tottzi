@@ -3,29 +3,37 @@
 - 💼 An IT Manager with a strong passion for coding.<br />
 - 👀 Who likes to solve problems and look up continuously challenges to advance himself. <br />
 - 👯 A guy who really enjoy working in teams and also have the ability to work independently.
-- 🧂 Currently work as Full-Stack JS Developer at [Salt](salt.dev)
+- 🧂 Currently work as Full-Stack JS Developer at [Salt](https://salt.dev/)
+<br /><br /><br />
 
+# Languages and Tools:
 
-### Languages and Tools:
+## My favorite Tech-Stack:
+[<img align="left" alt="HTML5" width="500px" src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" />](https://github.com/Tottzi)
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+## Front-end:
+[<img align="left" alt="HTML5" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](https://github.com/Tottzi)
+[<img align="left" alt="CSS3" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://github.com/Tottzi)
+[<img align="left" alt="Sass" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />](https://github.com/Tottzi)
+[<img align="left" alt="React" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://github.com/Tottzi)
+<br /><br /><br /><br /><br />
 
+## Back-end:
+[<img align="left" alt="JavaScript" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://github.com/Tottzi)
+[<img align="left" alt="Rest-API" width="100px" src="https://fliarbi.com/service_img/5dfb9d8e4e160-restful-api-1.png" />](https://github.com/Tottzi)
+[<img align="left" alt="GraphQL" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />](https://github.com/Tottzi)
+[<img align="left" alt="Node.js" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://github.com/Tottzi)
+[<img align="left" alt="Express" width="100px" src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" />](https://github.com/Tottzi)
+<br /><br /><br /><br /><br />
 
-<br />
-<br />
+## Databases:
+[<img align="left" alt="SQL" width="100px" src="https://logodix.com/logo/1960597.png" />](https://github.com/Tottzi)
+[<img align="left" alt="PostgreSQL" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />](https://github.com/Tottzi)
+[<img align="left" alt="MongoDB" width="100px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-mongodb/events/mon.png" />](https://github.com/Tottzi)
+[<img align="left" alt="PL/SQL" width="100px" src="https://download-basket.giveawayoftheday.com/icons/pl-sql-developer_128b.png" />](https://github.com/Tottzi)
+<br /><br /><br /><br /><br />
 
----
+# Feel free to make contact with me:
+[<img align="left" alt="linkedIn" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />](https://github.com/Tottzi)
+[<img align="left" alt="e-mail" width="100px" src="https://nåløyeklinikken.no/wp-content/uploads/2017/11/Electronic.mail_.png" />](mailto:adam.csetneki@outlook.com?subject=%5BGitHub_tottzi%5D)
