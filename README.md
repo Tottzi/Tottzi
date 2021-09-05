@@ -4,6 +4,7 @@
 - 👀 Who likes to solve problems and look up continuously challenges to advance himself. <br />
 - 👯 A guy who really enjoy working in teams and also have the ability to work independently.
 - 🧂 Currently work as Full-Stack JS Developer at [Salt](https://salt.dev/)
+- My portfolio site: [https://tottzi.github.io/adamc/](https://tottzi.github.io/adamc/)
 <br /><br /><br />
 
 # Languages and Tools:
@@ -36,4 +37,4 @@
 
 # Feel free to make contact with me:
 [<img align="left" alt="linkedIn" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />](https://github.com/Tottzi)
-[<img align="left" alt="e-mail" width="100px" src="https://nåløyeklinikken.no/wp-content/uploads/2017/11/Electronic.mail_.png" />](mailto:adam.csetneki@outlook.com?subject=%5BGitHub_tottzi%5D)
+[<img align="left" alt="GMAIL" width="100px" src="https://nåløyeklinikken.no/wp-content/uploads/2017/11/Electronic.mail_.png" />](mailto:adam.csetneki@outlook.com?subject=%5BGitHub_tottzi%5D)
